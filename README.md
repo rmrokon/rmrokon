@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Md Roknuzzaman
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGkXTcf9q7Xgg/profile-displaybackgroundimage-shrink_350_1400/0/1645730908129?e=1665014400&v=beta&t=h5JjaEV3y0eQBCOqdRuO1Ax6iQzuqM_bcXXs8ZAyj3U)
+![Web Developer](https://i.ibb.co/BN9d6Xx/cover-From-Adobe.png)
 
 Highly motivated entry-level Web Developer who is actively looking for a job position similar to Junior Front-End Developer/ Junior Full Stack Developer (MERN Stack). 
 
