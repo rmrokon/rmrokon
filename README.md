@@ -1,6 +1,5 @@
 ### Hi there 👋, It's Md Roknuzzaman
 #### I'm a Web Developer
-![Web Developer](https://i.ibb.co/BN9d6Xx/cover-From-Adobe.png)
 
 Highly motivated entry-level Web Developer who is actively looking for a job position similar to Junior Front-End Developer/ Junior Full Stack Developer (MERN Stack). 
 
