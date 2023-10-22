@@ -1,13 +1,11 @@
 ### Hi there 👋, It's Md Roknuzzaman
 #### I'm a Web Developer
 
-Highly motivated entry-level Web Developer who is actively looking for a job position similar to Junior Front-End Developer/ Junior Full Stack Developer (MERN Stack). 
+👋 Hi, it's Md Roknuzzaman, a Junior Software Engineer with a strong passion for web development. In less than a year in the field, I've become proficient in React, Typescript, Node.js, Express.js, TypeORM, and Mongoose, and I have experience working with both relational and non-relational databases.
 
-Ready to join a team with a great working and learning environment so that I can contribute to the company I will be working for in every aspect. 
+🔐 I'm well-versed in Fusion Auth, adding a layer of security and authentication to my projects. My UI skills include SCSS for styling and an appreciation for the utility-first approach using Tailwind CSS.
 
-Have built some projects with React.js and MERN stack where I implemented Firebase Authentication, CRUD operation, and developed Admin dashboard. Made all the projects mobile-friendly and responsive using either Bootstrap or TailwindCSS.
-
-Skills: JS / REACT / EXPRESS / MONGODB / HTML / CSS
+🚀 Currently, I'm expanding my skill set with Next.js to build performant, server-rendered React applications. My journey in technology is a constant learning process, and I'm always excited to explore new challenges.
 
 
 
