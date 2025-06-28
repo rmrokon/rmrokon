@@ -1,11 +1,28 @@
 ### Hi there 👋, It's Md Roknuzzaman
 #### I'm a Web Developer
 
-👋 Hi, it's Md Roknuzzaman, a Junior Software Engineer with a strong passion for web development. In less than a year in the field, I've become proficient in React, Typescript, Node.js, Express.js, TypeORM, and Mongoose, and I have experience working with both relational and non-relational databases.
+👋 Hey there! I'm **Md Roknuzzaman** — a Full-Stack Developer with 2.5 years of experience turning ☕ into scalable code.
 
-🔐 I'm well-versed in Fusion Auth, adding a layer of security and authentication to my projects. My UI skills include SCSS for styling and an appreciation for the utility-first approach using Tailwind CSS.
+🛠️ By day, I’m a Junior Software Engineer at Annon IT, wrangling JavaScript, TypeScript, React, Node.js, and Docker into submission. By night, I’m either debugging my life or exploring new tech stacks like it’s a side quest.
 
-🚀 Currently, I'm expanding my skill set with Next.js to build performant, server-rendered React applications. My journey in technology is a constant learning process, and I'm always excited to explore new challenges.
+📦 My backend superpowers include:
+- **Express.js**, **TypeORM**, **Sequelize**, **Mongoose**
+- **PostgreSQL**, **MySQL**, **MongoDB** — I speak fluent CRUD in both SQL and NoSQL
+- Auth? I got you. From **FusionAuth** to **Auth0**, I make sure nobody sneaks in without credentials.
+
+🎨 On the frontend side:
+- I speak **React** and sprinkle in some **Next.js** magic for SSR goodness
+- My styling mood swings between **SCSS** and **Tailwind CSS**, depending on caffeine level
+- Currently obsessed with **Shadcn UI** and all things component-driven
+
+🚀 I'm also diving deep into:
+- Microservices, Docker, and Kubernetes (because who doesn’t love containers within containers?)
+- Building SaaS products, e-learning platforms, and sometimes debugging why I exist in production
+
+😄 Fun fact: I treat Git like a diary and commit messages like poetry.
+
+Let’s connect, collaborate, and maybe write a few thousand lines of bugs together — I mean code. ✨
+
 
 
 
